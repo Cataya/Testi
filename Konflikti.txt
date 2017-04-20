@@ -3,3 +3,7 @@ Tämä on konflikti testi - muokattu
 98765555554321
 9876543213939939393939
 98765555554321
+
+For (int i = 0; i<5;i++){
+// tähän looppi myöhemmin
+}
