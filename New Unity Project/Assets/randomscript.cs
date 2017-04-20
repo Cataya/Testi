@@ -6,7 +6,7 @@ public class randomscript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        print("ADSFGHJKU");
 	}
 	
 	// Update is called once per frame
