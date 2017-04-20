@@ -1,2 +1,2 @@
-Tämä on konflikti testi
-123456789
+Tämä on konflikti testi - muokattu
+12345678987654321
